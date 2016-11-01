@@ -1,7 +1,5 @@
 # Welcome to GitHub For Everyone
 
-[![Join the chat at https://gitter.im/githubteacher/everyone-november-2016](https://badges.gitter.im/githubteacher/everyone-november-2016.svg)](https://gitter.im/githubteacher/everyone-november-2016?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 - Class Date: November 7, 2016
 - Facilitators:
  - On the Mic: Briana Swift (@brianamarie)
@@ -9,9 +7,9 @@
 
 ### While you are here
 
-This will be our class repository for GitHub for Everyone. To collaborate with us, please do the following:
+This will be our class repository for GitHub for Everyone. To talk to us (or get answers to your questions), please join us on Gitter:
 
-Click here ==>
+Click here ==> [![Join the chat at https://gitter.im/githubteacher/everyone-november-2016](https://badges.gitter.im/githubteacher/everyone-november-2016.svg)](https://gitter.im/githubteacher/everyone-november-2016?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ### Resources
 
