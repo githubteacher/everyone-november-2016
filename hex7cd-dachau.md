@@ -7,4 +7,4 @@
 
 ## Things to do
 - Visit the concentration camp memorial site
-- Visit old town and the (small) castle
+- Visit the old town and the (small) castle
