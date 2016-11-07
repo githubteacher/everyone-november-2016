@@ -8,6 +8,6 @@
   - Paradise
 
 ## Things to do
-:soccer:
-:squirrel:
-:worried: :gun:
+- :soccer:
+- :squirrel:
+- :worried: :gun:
