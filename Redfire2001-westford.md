@@ -1,4 +1,4 @@
-# Westford MA 
+# Westford, Massachusetts
 
 ## Places to eat
  - Westford House Of Pizza
