@@ -1,4 +1,4 @@
-# KC MO
+# Kansas City, Kansas & Missouri
 
 ## Places to eat
 - Tacos
