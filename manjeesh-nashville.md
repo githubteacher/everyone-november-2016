@@ -1,6 +1,7 @@
 #Nashville
 ## Places to eat
-- Home
+- Home Food
+- Panda Express
 
 
 ## Things to do
