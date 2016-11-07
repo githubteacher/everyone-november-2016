@@ -6,7 +6,10 @@
 - Sizzlers
 - Dema Kitchens
 - Grande Hotel and Restaurant
+- Kiddies Inn
 
 
 ## Things to Do
--
+- Township Stadium
+- The Cenotaph
+- Town House :Events and Meetings
