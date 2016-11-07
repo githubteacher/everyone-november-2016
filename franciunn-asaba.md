@@ -6,6 +6,7 @@
 - Sizzlers
 - Dema Kitchens
 - Grande Hotel and Restaurant
+- Kiddies Inn
 
 
 ## Things to Do
