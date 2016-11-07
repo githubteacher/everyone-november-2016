@@ -5,3 +5,4 @@
 
 ## Things to do
 - Visit the concentration camp memorial site
+- Visit the old town and the (small) castle
