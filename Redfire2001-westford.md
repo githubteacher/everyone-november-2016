@@ -1,8 +1,11 @@
 # Westford
 
 ## Places to eat
+ - Westford House Of Pizza
+ - Bamboo
+ -Seoul Kitchen
 
 ## Things to do
 
-- Summertime fun: http://kimballfarm.com/ 
+- Summer fun: http://kimballfarm.com/
 - Winter fun: https://www.skinashoba.com/
