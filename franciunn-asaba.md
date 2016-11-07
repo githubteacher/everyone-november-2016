@@ -1,7 +1,7 @@
 # Asaba
 
 ## Places to Eat
-- Tantalisers
+- Tantalizers
 - Mr Biggs
 - Sizzlers
 - Dema Kitchens
@@ -12,4 +12,4 @@
 ## Things to Do
 - Township Stadium
 - The Cenotaph
-- Town House :Events and Meetings
+- Town House :Events and Meetings:
