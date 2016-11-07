@@ -9,4 +9,6 @@
 
 
 ## Things to Do
--
+- Township Stadium
+- The Cenotaph
+- Town House :Events and Meetings
