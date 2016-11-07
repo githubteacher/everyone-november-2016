@@ -7,3 +7,6 @@
 ## Things to do
 
 -Hollywood
+-Disney land
+-Universal Studios
+-Galaxy :soccer:
