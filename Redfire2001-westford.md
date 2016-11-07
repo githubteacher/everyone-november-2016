@@ -1,9 +1,9 @@
-# Westford
+# Westford MA 
 
 ## Places to eat
  - Westford House Of Pizza
  - Bamboo
- -Seoul Kitchen
+ - Seoul Kitchen
 
 ## Things to do
 
