@@ -7,6 +7,7 @@
 - BBQ
   - Joe's Kansas City BBQ
   - Jack Stack
+- Kin Lin   
 
 ## Things to do
 - Kansas City Symphony
