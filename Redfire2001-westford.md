@@ -1,6 +1,6 @@
 # Westford, Massachusetts
 
-## Places to eat
+## Great Places to eat
  - Westford House Of Pizza
  - Bamboo
  - Seoul Kitchen
